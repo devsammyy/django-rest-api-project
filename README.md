@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Django REST API Project README</title>
-</head>
-<body>
+
 
 <h1>Django REST API Project README</h1>
 
@@ -135,10 +128,6 @@ source venv/bin/activate</code></pre>
 <h2 id="license">License</h2>
 
 <p>This project is licensed under the <a href="LICENSE">MIT License</a>. Feel free to use, modify, and distribute it as needed for your purposes.</p>
-
-</body>
-</html>
-
 
 
 <div align="center">
