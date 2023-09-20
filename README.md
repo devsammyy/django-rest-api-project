@@ -1,6 +1,6 @@
 
 
-<h1>Django REST API Project README </h1>
+<h1>Django REST API Project </h1>
 
 <p>Welcome to the README for your Django REST API project! This project is designed to provide user signup and signin functionality, as well as house management and task tracking features.</p>
 
