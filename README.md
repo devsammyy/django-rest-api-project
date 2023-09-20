@@ -49,7 +49,7 @@
     <li>Clone this repository to your local machine:</li>
 </ol>
 
-<pre><code>git clone &lt;repository-url&gt;</code></pre>
+<pre><code>git clone https://github.com/devsammyy/django-rest-api-project.git </code></pre>
 
 <ol start="2">
     <li>Create and activate a virtual environment (optional but recommended):</li>
